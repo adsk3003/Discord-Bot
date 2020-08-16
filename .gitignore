@@ -1,4 +1,4 @@
 .gitignore
 /node_modules
 auth.json
-./info.json
+info.json
